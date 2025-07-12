@@ -1,0 +1,13 @@
+Package: BLCAclassifier
+Title: BLCAclassifier
+Version: 0.0.1.9000
+Authors@R: 
+    person("GD", "Chu", , "chugd266000@126.com", role = c("aut", "cre"))
+Description: bladder cancer immune subtype.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    stats,
+    qs
